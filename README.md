@@ -8,7 +8,6 @@
 
 ### Prerequisites
 Ensure you have the following installed:
-
 - Next.js
 - Python 3
 - Django
