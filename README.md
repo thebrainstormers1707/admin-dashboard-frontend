@@ -1,4 +1,4 @@
-# Admin Pannel Frontend
+# Web Frontend
 
 ### Tech Stack
 - Frontend: React.js with Ionic Framework
